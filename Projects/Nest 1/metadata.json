@@ -1,9 +1,9 @@
 {
-  "projectName": "Robbe Op de Beat",
-  "creators": [ "Wobbel" ],
-  "description": "maak een pokoe met robbe je gaat sowieso goud",
-  "tags": ["lighting", "interaction", "audio"],
-  "category": "physical",
-  "year": "2025-06-12",
+  "projectName": "Reactive Sandbox",
+  "creators": ["Ava Janssen", "Rik de Boer"],
+  "description": "An interactive sandbox that visualizes sensor data in real time with playful physics.",
+  "tags": ["Tech", "interaction", "sensors", "unity"],
+  "category": "Tech",
+  "year": "2025-03-18",
   "imageFile": "thumbnail.png"
 }
