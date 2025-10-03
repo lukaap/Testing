@@ -1,0 +1,9 @@
+{
+  "projectName": "Immersive Story Lamp",
+  "creators": ["Alice", "Bob"],
+  "description": "A lamp that tells stories.",
+  "tags": ["Story", "Void"],
+  "category": "interactive",
+  "year": "2025",
+  "imageFile": "thumbnail.png"
+}
