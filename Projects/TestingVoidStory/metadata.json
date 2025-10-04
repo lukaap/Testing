@@ -1,10 +1,10 @@
 {
   "projectName": "Pushing P",
-  "creators": ["Travis Yachty"],
+  "creators": "Travis Yachty",
   "description": "A lamp that tells stories. A lamp that tells stories.A lamp that tells stories.A lamp that tells stories.A lamp that tells stories.A lamp that tells stories.A lamp that tells stories.A lamp that tells stories.A lamp that tells stories.A lamp that tells stories.A lamp that tells stories.A lamp that tells stories.",
-  "tags": ["Billen"],
+  "tags": "Billen",
   "category": "tech",
-"discipline": ["tech"],
+"discipline": "tech",
   "year": "2025",
   "imageFile": "thumbnail.png"
 }
