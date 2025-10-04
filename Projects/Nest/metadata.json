@@ -1,8 +1,8 @@
 {
   "projectName": "Reactive Sandbox",
-  "creators": ["Ava Janssen", "Rik de Boer"],
+  "creators": ["Ava Janssen"],
   "description": "An interactive sandbox that visualizes sensor data in real time with playful physics.",
-  "tags": ["Tech", "interaction", "sensors", "unity"],
+  "tags": ["Tech"],
   "category": "Tech",
   "year": "2025-03-18",
   "imageFile": "thumbnail.png"
